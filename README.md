@@ -1,6 +1,6 @@
 ## Hi there 👋
 David, 19 yrs old, Miami Florida.
-My stats:
+My stats: \n
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidddx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **davidddx/davidddx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
