@@ -1,5 +1,5 @@
 ## Hi there 👋
-David, 19 yrs old, Miami Florida.
+David, 20 yrs old, Miami Florida.
 My stats: <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidddx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
