@@ -1,5 +1,4 @@
 ## Hi there 👋
-David, 20 yrs old, Miami Florida.
 <!--
 **davidddx/davidddx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
